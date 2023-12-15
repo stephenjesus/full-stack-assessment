@@ -1,4 +1,4 @@
-# Full Stack Assessment Objectives
+# Full Stack Assessment
 
 ## Objective:
 The objective of this project is to create a basic front end using React for taking user input, storing it in a MongoDB database, and displaying the results.
