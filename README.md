@@ -54,6 +54,44 @@ To set up and run the Node.js backend server with an environment file:
     npm start
     ```
 
+### Running Javascript Program:
+
+1. Navigate to the  Javascript project directory:
+    ```bash
+    cd javascript
+    ```
+
+2. Install project dependencies:
+    ```bash
+    npm install -g mocha
+    ```
+3. Start the running testcase:
+     ```bash
+   mocha ./tests/*
+    ```
+    
+
+# Javascript Test Results 
+
+## Test Suite: minimumDifference
+
+- ✔ should return 72 for this partition list [-36, 36]
+- ✔ should return 2 for this partition list [3, 9, 7, 3]
+- ✔ should return 0 for this partition list [2, -1, 0, 4, -2, -9]
+
+## Test Suite: Strong Password Checker
+
+- ✔ should return the correct steps for a weak password
+- ✔ should return the correct steps for a moderately strong password
+- ✔ should return 0 for a strong password
+
+---
+
+**Total Tests Passed:** 6
+**Execution Time:** 8ms
+
+
+
 
     
 
