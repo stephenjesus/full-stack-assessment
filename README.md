@@ -9,6 +9,17 @@ The objective of this project is to create a basic front end using React for tak
 - **Database:** MongoDB
 - **Styling Guidelines:** Implement good styling practices using CSS or a styling framework (e.g., Bootstrap, Material-UI)
 
+# Project Deployment
+
+## Deployment URL:
+
+The project has been deployed and is accessible at the following URL:
+
+[https://password-strength-checker0.web.app/](https://password-strength-checker0.web.app/)
+
+Click on the URL above to access the deployed application.
+
+
 ### Running React Project:
 
 To set up and run the React project, use the following commands in your terminal:
