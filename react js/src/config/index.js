@@ -1,5 +1,5 @@
 const CONFIG = {
-    SERVICE_URL: "http://localhost:4030",
+    SERVICE_URL: "https://embarrassed-rose-armadillo.cyclic.app",
 }
 
 module.exports = { CONFIG }
