@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.active {
+  background: rgba(225,115,80,.1)!important;
+  border-left: 4px solid #e17350;
+}
